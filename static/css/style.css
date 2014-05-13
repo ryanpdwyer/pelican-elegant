@@ -190,7 +190,6 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
     list-style-type: decimal;
     font-size: 1em;
     list-style-position: outside;
-    margin:20px 0px 20px 20px;
 }
 
 .article-content dd {
@@ -199,7 +198,8 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
 }
 
 .article-content dt {
-    font-size:1.3em;
+    font-size: 1.0em;
+    font-weight: normal;
 }
 
 .page_header h1 {
