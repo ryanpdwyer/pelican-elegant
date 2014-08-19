@@ -190,11 +190,19 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
     list-style-type: decimal;
     font-size: 1em;
     list-style-position: outside;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
 }
 
 .article-content dd {
     margin:1px 0px 1px 20px;
     padding:3px 0px 3px 0px;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
 }
 
 .article-content dt {
